@@ -14,8 +14,6 @@
       "..."
     ],
     "wants":[
-      "Devenir agriculteur",
-      "Donner des privilèges aux gens"
     ]
   },
   {
@@ -34,7 +32,6 @@
       "Refactoring"
     ],
     "wants":[
-      "Un travail de développeur Javascript"
     ]
   },
   {
@@ -80,7 +77,7 @@
       "Contribution au libre"
     ],
     "wants": [
-      "Travailler au soleil"
+      "Travailler à l'ouest"
     ]
   }
 ]
