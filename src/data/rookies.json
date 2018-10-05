@@ -12,6 +12,10 @@
       "Ruby",
       "Java",
       "..."
+    ],
+    "wants":[
+      "Devenir agriculteur",
+      "Donner des privilèges aux gens"
     ]
   },
   {
@@ -28,6 +32,9 @@
       "HTML",
       "CSS",
       "Refactoring"
+    ],
+    "wants":[
+      "Un travail de développeur Javascript"
     ]
   },
   {
@@ -40,6 +47,9 @@
     "skills": [
       "Python",
       "Machine learning"
+    ],
+    "wants":[
+      "Changer le monde"
     ]
   },
   {
@@ -52,6 +62,10 @@
     "skills": [
       "JavaScript",
       "Python"
+    ],
+    "wants": [
+      "Trouver un emploi en javascript",
+      "Changer le monde"
     ]
   },
   {
@@ -64,6 +78,9 @@
     "skills": [
       "Python",
       "Contribution au libre"
+    ],
+    "wants": [
+      "Travailler au soleil"
     ]
   }
 ]
